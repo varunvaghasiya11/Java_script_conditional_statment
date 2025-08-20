@@ -22,7 +22,7 @@ if (N > 3) {
 }
 
 I = (P * R * N) / 100;
-console.log("Principal Amount (P): " + P);
-console.log("No. of Years (N): " + N);
-console.log("Rate of Interest (R): " + R + "%");
-console.log("Total Interest (I): " + I);
+console.log("Principal Amount: " + P);
+console.log("No. of Years: " + N);
+console.log("Rate of Interest: " + R + "%");
+console.log("Total Interest: " + I);
